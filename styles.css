@@ -21,6 +21,7 @@ font-size:2.5em;}
 #entertain {
 	float: left;
 	width: 600px;
+	border-bottom:solid 3px #000000;
 }
 #body,td,th {
 	font-family: Arial, Helvetica, sans-serif;
@@ -49,6 +50,7 @@ attention {
 	clear:both;
 	width: 940px;
 	margin-top:3em!important;
+	border-bottom:solid 1px #000000;
 	}
 
 #looks {
@@ -57,6 +59,7 @@ attention {
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
+	border-bottom:solid 1px #000000;
 }
 
 .heading {background-color:#FF3;
